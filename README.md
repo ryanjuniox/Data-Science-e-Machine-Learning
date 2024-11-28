@@ -4,7 +4,7 @@ Bem vindo ao meu repositório dedicado à minha jornada de aprendizado em Data S
 
 ## Data Science
 - [Introdução Data Science | Conceitos fundamentais em Data Science](#introdução-data-science)
--[Introdução à Lógica](#introducao-a-logica)
+- [Introdução à Lógica](#introducao-a-logica)
 
 ## Introdução à Data Science - Conceitos
 
